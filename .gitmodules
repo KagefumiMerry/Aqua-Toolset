@@ -1,6 +1,3 @@
-[submodule "SonicAudioTools"]
-	path = SonicAudioTools
-	url = https://github.com/Shadowth117/SonicAudioTools
 [submodule "VGAudio"]
 	path = VGAudio
 	url = https://github.com/Shadowth117/VGAudio
